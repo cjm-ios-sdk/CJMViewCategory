@@ -1,0 +1,16 @@
+PODS:
+  - CJMViewCategory (0.1.0)
+
+DEPENDENCIES:
+  - CJMViewCategory (from `../`)
+
+EXTERNAL SOURCES:
+  CJMViewCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CJMViewCategory: c76ed0e2bbbe3958432732fdf6310518dfd2e51f
+
+PODFILE CHECKSUM: 8829a417074e70870b13fa084f7b74c037f12089
+
+COCOAPODS: 1.9.1
