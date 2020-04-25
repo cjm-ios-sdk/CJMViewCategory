@@ -15,10 +15,10 @@ Pod::Spec.new do |s|
 视图的接口扩展，包括UIButton的点击动画，UIView的圆角设置，查找父视图等。
                        DESC
 
-  s.homepage         = 'https://github.com/chenjm/CJMViewCategory'
+  s.homepage         = 'https://github.com/cjm-ios-sdk/CJMViewCategory'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'chenjm' => 'cjiemin@163.com' }
-  s.source           = { :git => 'https://github.com/chenjm/CJMViewCategory.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/cjm-ios-sdk/CJMViewCategory.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
 
